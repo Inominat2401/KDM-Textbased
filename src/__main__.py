@@ -1,4 +1,4 @@
-```module __main__```
+"""module __main__"""
 
 import app
 
